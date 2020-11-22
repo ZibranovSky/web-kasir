@@ -224,7 +224,7 @@ function update_transaksi_1()
 // url
 function url()
 {
-	return $url = "//localhost/web-kasir/vendors/";
+	return $url = "//localhost/web-kasir-master/vendors/";
 }
 
 function rupiah($angka){
