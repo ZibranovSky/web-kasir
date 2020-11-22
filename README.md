@@ -40,7 +40,7 @@ Kasir / POS (Point of Sale) adalah web aplikasi yang berfungsi untuk tempat di m
     <li>Download repository</li>
     <li>Ekstrak file pada direktori server</li>
     <li>import file database "kasir_zibran.sql"</li>
-    <li>Masuk ke browser ketik "localhost/tabungan-siswa/"</li>
+    <li>Masuk ke browser ketik "localhost/web-kasir-master/"</li>
     
   </ol>
   
@@ -57,7 +57,7 @@ Kasir / POS (Point of Sale) adalah web aplikasi yang berfungsi untuk tempat di m
   
   
   -> Catatan(PENTING) :
-    <i>Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'kasir_kita.sql'</i>
+    <i>Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'kasir_zibran.sql'</i>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
