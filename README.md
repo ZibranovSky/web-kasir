@@ -61,7 +61,8 @@ Kasir / POS (Point of Sale) adalah web aplikasi yang berfungsi untuk tempat di m
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
-1. Whatsapp = 0895330131416<br>
+
+Discord : royal_fortune19
 
 Dan bila anda berkenan untuk berdonasi, bisa melalui DANA <img src ="https://jualmac.net/wp-content/uploads/2020/01/dana-1.jpg" height="30px">
 melalui nomor berikut : <br>
